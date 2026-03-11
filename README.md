@@ -1,2 +1,2 @@
 # Rock Paper Scissor Game
-Simple Rock Paper Scissors Game
+A simple Rock Paper Scissors Game built with C++. 
